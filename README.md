@@ -76,9 +76,5 @@ This plugin fully automates that workflow.
 A fully automated pipeline to generate animated,
 web-ready 3D models from simulation data.
 
----
 
-## 👨‍💻 Author
 
-Poramet Siyangnok  
-IHK Certified Software Developer (2025)
